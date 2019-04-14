@@ -8,7 +8,9 @@ Statistics, Data Science, Deep Learning, Reinforcement Learning and a hint of Ac
 ### Deep Learning
 Notebooks:
 - [Draft] GRU and LSTM : Simple implementation of GRU and LSTM layers
+- [Draft] RNN - Sine Wave. Experimenting with RNN, trying to get the intuition/feeling.
 - [Draft] Bayes by backprop. Blundell C. et al. *Weight Uncertainty in Neural Networks* ([arXiv](https://arxiv.org/abs/1505.05424))
+
 
 ### Reinforcement Learning
 Notebooks:
