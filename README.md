@@ -1,5 +1,7 @@
 # Zoo
 
+This repo is for self-education purposes.
+
 Statistics, Data Science, Deep Learning, Reinforcement Learning and a hint of Actuarial Science.
 
 ## Content by folder
