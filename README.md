@@ -2,7 +2,7 @@
 
 This repo is for my own educational purpose.
 
-Statistics, Data Science, Deep Learning, Reinforcement Learning and a hint of Actuarial Science.
+Statistics, Data Science, Deep Learning and Reinforcement Learning.
 
 ## Content by folder
 
