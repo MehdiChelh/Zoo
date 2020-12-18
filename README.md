@@ -17,4 +17,3 @@ Notebooks:
 ### Reinforcement Learning
 Notebooks:
 - [Draft] Reinforcement learning - SARSA, epsilon-greedy policy and UCB strategies ([UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html))
-
